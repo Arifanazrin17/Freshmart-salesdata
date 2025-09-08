@@ -1,0 +1,51 @@
+sale_date,store_id,store_location,product_id,product_name,category,quantity_sold,unit_price,total_sales
+2025-09-01,101,Mumbai,P1000,Almond Milk 1L,Beverages,12,250,3000
+2025-09-01,102,Delhi,P1001,Chocolate Bar 50g,Snacks,30,50,1500
+2025-09-01,103,Bangalore,P1002,Cheddar Cheese 200g,Dairy,15,200,3000
+2025-09-01,104,Chennai,P1003,Whole Wheat Bread,Bakery,20,100,2000
+2025-09-01,105,Kolkata,P1004,Bananas 1kg,Fruits,25,80,2000
+2025-09-02,101,Mumbai,P1005,Orange Juice 1L,Beverages,10,180,1800
+2025-09-02,102,Delhi,P1006,Potato Chips 100g,Snacks,18,120,2160
+2025-09-02,103,Bangalore,P1007,Yogurt 150g,Dairy,22,60,1320
+2025-09-02,104,Chennai,P1008,Tomatoes 500g,Fruits,35,40,1400
+2025-09-02,105,Kolkata,P1009,Butter 100g,Dairy,16,150,2400
+2025-09-03,101,Mumbai,P1000,Almond Milk 1L,Beverages,14,250,3500
+2025-09-03,102,Delhi,P1001,Chocolate Bar 50g,Snacks,28,50,1400
+2025-09-03,103,Bangalore,P1002,Cheddar Cheese 200g,Dairy,12,200,2400
+2025-09-03,104,Chennai,P1003,Whole Wheat Bread,Bakery,22,100,2200
+2025-09-03,105,Kolkata,P1004,Bananas 1kg,Fruits,30,80,2400
+2025-09-04,101,Mumbai,P1005,Orange Juice 1L,Beverages,18,180,3240
+2025-09-04,102,Delhi,P1006,Potato Chips 100g,Snacks,20,120,2400
+2025-09-04,103,Bangalore,P1007,Yogurt 150g,Dairy,25,60,1500
+2025-09-04,104,Chennai,P1008,Tomatoes 500g,Fruits,28,40,1120
+2025-09-04,105,Kolkata,P1009,Butter 100g,Dairy,20,150,3000
+2025-09-05,101,Mumbai,P1000,Almond Milk 1L,Beverages,16,250,4000
+2025-09-05,102,Delhi,P1001,Chocolate Bar 50g,Snacks,35,50,1750
+2025-09-05,103,Bangalore,P1002,Cheddar Cheese 200g,Dairy,18,200,3600
+2025-09-05,104,Chennai,P1003,Whole Wheat Bread,Bakery,25,100,2500
+2025-09-05,105,Kolkata,P1004,Bananas 1kg,Fruits,32,80,2560
+2025-09-06,101,Mumbai,P1005,Orange Juice 1L,Beverages,12,180,2160
+2025-09-06,102,Delhi,P1006,Potato Chips 100g,Snacks,22,120,2640
+2025-09-06,103,Bangalore,P1007,Yogurt 150g,Dairy,28,60,1680
+2025-09-06,104,Chennai,P1008,Tomatoes 500g,Fruits,30,40,1200
+2025-09-06,105,Kolkata,P1009,Butter 100g,Dairy,18,150,2700
+2025-09-07,101,Mumbai,P1000,Almond Milk 1L,Beverages,20,250,5000
+2025-09-07,102,Delhi,P1001,Chocolate Bar 50g,Snacks,40,50,2000
+2025-09-07,103,Bangalore,P1002,Cheddar Cheese 200g,Dairy,22,200,4400
+2025-09-07,104,Chennai,P1003,Whole Wheat Bread,Bakery,28,100,2800
+2025-09-07,105,Kolkata,P1004,Bananas 1kg,Fruits,35,80,2800
+2025-09-08,101,Mumbai,P1005,Orange Juice 1L,Beverages,15,180,2700
+2025-09-08,102,Delhi,P1006,Potato Chips 100g,Snacks,25,120,3000
+2025-09-08,103,Bangalore,P1007,Yogurt 150g,Dairy,30,60,1800
+2025-09-08,104,Chennai,P1008,Tomatoes 500g,Fruits,32,40,1280
+2025-09-08,105,Kolkata,P1009,Butter 100g,Dairy,22,150,3300
+2025-09-09,101,Mumbai,P1000,Almond Milk 1L,Beverages,18,250,4500
+2025-09-09,102,Delhi,P1001,Chocolate Bar 50g,Snacks,38,50,1900
+2025-09-09,103,Bangalore,P1002,Cheddar Cheese 200g,Dairy,20,200,4000
+2025-09-09,104,Chennai,P1003,Whole Wheat Bread,Bakery,30,100,3000
+2025-09-09,105,Kolkata,P1004,Bananas 1kg,Fruits,40,80,3200
+2025-09-10,101,Mumbai,P1005,Orange Juice 1L,Beverages,20,180,3600
+2025-09-10,102,Delhi,P1006,Potato Chips 100g,Snacks,28,120,3360
+2025-09-10,103,Bangalore,P1007,Yogurt 150g,Dairy,32,60,1920
+2025-09-10,104,Chennai,P1008,Tomatoes 500g,Fruits,35,40,1400
+2025-09-10,105,Kolkata,P1009,Butter 100g,Dairy,25,150,3750
