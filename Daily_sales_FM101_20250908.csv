@@ -1,5 +1,0 @@
-Store ID,store Location,Product ID,product name,Category,Quantity sold,unit price,total Sales Value,sales_date
-FM101,Mumbai,P1234,Milk 1L,Dairy,50,40.00,2000.00,2025-09-08
-FM102,Pune,P1235,Bread,Bakery,20,30.00,600.00,2025-09-08
-FM103,Bangalore,P1236,Butter,Dairy,,120.00,0.00,2025-09-08
-FM104,Bangalore,P1236,Butter,Dairy,,120.00,0.00,2025-09-08
